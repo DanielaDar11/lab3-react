@@ -1,0 +1,15 @@
+
+.descriere {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .descriere p {
+    font-family: Arial;
+  }
+  .firstParagraph {
+    font-size: 23px; 
+  }
+  .lastParagraph {
+    font-weight: bold;
+  }

@@ -1,0 +1,96 @@
+.echipaContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.echipaContainer h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.membriContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+
+.membru {
+    padding: 20px;
+    border-radius: 10px;
+    width: 350px;
+    text-align: center;
+}
+
+.imagine {
+    width: 100%;
+    max-height: 450px;
+    margin-bottom: 10px;
+}
+
+.nume {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ocupatia {
+    font-size: 20px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mesaj {
+    font-size: 14px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 768px) {
+    .membriContainer {
+        gap: 20px;
+    }
+
+    .membru {
+        width: 280px;
+    }
+
+    .imagine {
+        max-height: 300px;
+    }
+
+    .nume {
+        font-size: 18px;
+    }
+
+    .ocupatia {
+        font-size: 18px;
+    }
+
+    .mesaj {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .membru {
+        width: 100%;
+    }
+
+    .nume {
+        font-size: 16px;
+    }
+
+    .ocupatia {
+        font-size: 16px;
+    }
+
+    .mesaj {
+        font-size: 12px;
+    }
+}

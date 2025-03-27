@@ -1,0 +1,104 @@
+.principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-image: url('../../assets/principala/image.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    position: relative; 
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 700px;
+  }
+  
+  .principal h2 {
+    font-size: 42px;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .principal .secund p {
+    font-size: 30px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .secund button {
+    background-color: #ffffff9d;
+    color: rgb(0, 0, 0);
+    padding: 16px 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  .secund {
+    margin-left:80px;
+    max-width: 700px;
+  }
+  
+  .secund button:hover {
+    background-color: #000000;
+    color: aliceblue;
+  }
+  
+  .principal img {
+    margin-right:80px;
+    width: 100%;
+    max-width: 550px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    min-width: 200px;
+  }
+  @media (max-width: 1000px) {
+    .principal {
+      flex-direction: column;
+      height: auto;
+      padding: 20px 10px;
+    }
+  
+    .secund {
+      margin-left: 0;
+      text-align: center;
+      max-width: 90%;
+    }
+  
+    .secund button {
+      padding: 14px 28px;
+      font-size: 16px;
+    }
+  
+    .principal img {
+      margin-top: 20px;
+      max-width: 90%;
+      margin-left:20px;
+      min-width: unset;
+    }
+  
+    .principal h2 {
+      font-size: 36px;
+    }
+  
+    .principal .secund p {
+      font-size: 24px;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .secund button {
+      padding: 12px 24px;
+      font-size: 14px;
+    }
+  
+    .principal h2 {
+      font-size: 28px;
+    }
+  
+    .principal .secund p {
+      font-size: 18px;
+    }
+  }

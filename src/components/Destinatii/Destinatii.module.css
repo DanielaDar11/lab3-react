@@ -1,0 +1,49 @@
+
+.dest {
+    text-align: center;
+    padding: 20px;
+    font-size: 22px;
+  }
+  
+  .destinatiiContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap:30px;
+}
+
+  
+  .destinatie {
+    margin-top: 20px;
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 410px;
+    text-align: center;
+    border:2px solid rgb(155, 155, 155);
+  }
+  
+  .destinatie img {
+    width: 360px;
+    height: 220px;
+    border-radius: 8px;
+  }
+  
+  .destinatie h2 {
+    margin-top: 10px;
+    font-size: 26px;
+    color: #080061;
+
+  }
+  
+  .destinatie:hover {
+    background-color:rgb(204, 237, 248);
+  }
+
+  @media (max-width: 768px) {
+    .destinatiiContainer {
+        gap: 10px;
+    }
+}

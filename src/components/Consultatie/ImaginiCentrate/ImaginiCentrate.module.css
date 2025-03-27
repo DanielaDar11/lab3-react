@@ -1,0 +1,26 @@
+.imaginiContainer {
+    display: flex;
+    justify-content: center; 
+    gap: 100px; 
+    margin:auto;
+    margin-bottom:80px;
+    margin-top:80px;
+    flex-wrap: wrap;
+  }
+  
+  .imagine {
+    max-width: 80px;
+    width:auto;
+    height: 80px;
+  }
+  
+  @media (max-width: 700px) {
+    .imagine {
+      max-width: 60px; 
+      max-height: 60px;
+    }
+  
+    .imaginiContainer {
+      gap: 30px; 
+    }
+  }

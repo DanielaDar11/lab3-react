@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/tarile/austria/viena.png",
+        "tip": "Tur de vară -  Viena",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (01.06.2025 - 07.06.2025)",
+        "rezervare":"Rezervarea timpurie a Austriei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Viena te invită să descoperi farmecul imperial al capitalei Austriei, plină de palate, muzee și cafenele istorice.",
+        "pret":"275€"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/tarile/austria/Salzburg.png",
+        "tip": "Tur de vară -  Salzburg",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"7 Nopți (05.06.2025 - 12.06.2025)",
+        "rezervare":"Rezervarea timpurie a Austriei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Salzburg te așteaptă cu peisaje montane impresionante, istorie muzicală și atmosfera de basm a orașului natal al lui Mozart.",
+         "pret":"270€"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/tarile/austria/inn.png",
+        "tip": "Tur de vară -Innsbruck",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"5 Nopți (10.06.2025 - 15.06.2025)",
+        "rezervare":"Rezervarea timpurie a Austriei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Innsbruck este ideal pentru iubitorii de sporturi de iarnă și oferă priveliști montane spectaculoase.",
+        "pret":"283€"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/tarile/austria/hallstatt.png",
+        "tip": "Tur de vară - Hallstatt",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":"8 Nopți (15.06.2025 - 23.06.2025)",
+        "rezervare":"Rezervarea timpurie a Austriei în 2025 ",
+        "mesaj":"Hallstatt, un sat pitoresc de pe malul lacului, te va fascina cu peisajele sale idilice și atmosfera liniștită.",
+        "pret":"275€"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/tarile/austria/graz.png",
+        "tip": "Tur de vară - Graz",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":": 6 Nopți (20.06.2025 - 26.06.2025)",
+        "rezervare":"Rezervarea timpurie a Austriei în 2025 ",
+        "mesaj":"Graz îmbină tradiția cu modernitatea, având un centru vechi plin de viață și o atmosferă deosebită.",
+        "pret":"295€"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/tarile/austria/zell.png",
+        "tip": "Tur de vară - Zell am See",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"5 Nopți (25.06.2025 - 30.06.2025)",
+        "rezervare":"Rezervarea timpurie a Austriei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Zell am See oferă un cadru perfect pentru relaxare, cu lacuri clare și munți acoperiți de zăpadă.",
+        "pret":"350€"
+    }
+]

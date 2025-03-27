@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: auto;
+    max-width: 1200px;
+    margin-top:50px;
+    margin-bottom:50px;
+  }
+  
+  .primul {
+    max-width: 500px;
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .imagini {
+    margin:auto;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 90%;
+  }
+  
+  .imagini img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+  
+  @media (max-width: 900px) {
+    .container {
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+  
+    .primul {
+      max-width: 100%;
+    }
+  
+    .imagini {
+      width: 60%;
+      height: 50%;
+    }
+  }
+  

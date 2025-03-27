@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/tarile/grecia/santorini.png",
+        "tip": "Tur de vară -Santorini",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (01.06.2025 - 07.06.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Santorini este o destinație de vis cu apusuri spectaculoase și peisaje de neuitat.",
+        "pret":"265€"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/tarile/grecia/mykonos.png",
+        "tip": "Tur de vară - Mykonos",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (05.06.2025 - 11.06.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Mykonos este faimos pentru plajele sale superbe și viața de noapte vibrantă.",
+         "pret":"235€"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/tarile/grecia/creta.png",
+        "tip": "Tur de vară -Creta",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 6 Nopți (10.06.2025 - 16.06.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Creta oferă o combinație perfectă de plaje, situri arheologice și sate tradiționale.",
+        "pret":"272€"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/tarile/grecia/corfu.png",
+        "tip": "Tur de vară -Corfu",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":"6 Nopți (15.06.2025 - 21.06.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 ",
+        "mesaj":"Corfu este un colț de paradis, cu plaje idilice și peisaje montane impresionante.",
+        "pret":"275€"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/tarile/grecia/rodos.png",
+        "tip": "Tur de vară - Rodos",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":" 6 Nopți (12.07.2025 - 18.07.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 ",
+        "mesaj":"Rodos te va surprinde cu plajele sale de vis și cu atmosfera sa istorică și culturală.",
+        "pret":"285€"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/tarile/grecia/zakynthos.png",
+        "tip": "Tur de vară -Zakynthos",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (05.07.2025 - 11.07.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Zakynthos este cunoscut pentru plaja Navagio și apele sale cristaline.",
+        "pret":"300€"
+    },
+    {
+        "id": 7,
+        "image": "src/assets/tarile/grecia/naxos.png",
+        "tip": "Tur de vară - Naxos",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":"6 Nopți  (01.07.2025 - 07.07.2025)",
+        "rezervare":"Rezervare timpurie a Greciei în 2025",
+        "mesaj":"Naxos este ideal pentru vacanțe relaxante, cu plaje și sate pitorești.",
+        "pret":"258€"
+    },
+    {
+        "id": 8,
+        "image": "src/assets/tarile/grecia/paros.png",
+        "tip": "Tur de vară - Paros",
+        "inclus": " Zbor ✈️ , 🏨 Cazare",
+        "data":" 7 Nopți (05.07.2025 - 12.07.2025)",
+        "rezervare":"Rezervare timpurie a Greciei în 2025",
+        "mesaj":"Paros oferă un amestec perfect de tradiție grecească și locuri de relaxare pe plajă.",
+        "pret":"279€"
+    },
+    {
+        "id": 9,
+        "image": "src/assets/tarile/grecia/thassos.png",
+        "tip": " Tur de vară - Thassos",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (10.07.2025 - 16.07.2025)",
+        "rezervare":"Rezervare timpurie a Greciei în 2025",
+        "mesaj":"Thassos, cunoscut și sub numele de „Insula verde”, este ideal pentru iubitorii de natură și peisaje montane.",
+        "pret":"290€"
+    },
+    {
+        "id": 10,
+        "image": "src/assets/tarile/grecia/skiathos.png",
+        "tip": "Tur de iarnă -Madonna di Campiglio",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 5 Nopți (15.12.2025 - 20.12.2025)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Ideală pentru iubitorii de schi și vacanțe de lux.",
+        "pret":"250€"
+    },
+    {
+        "id": 11,
+        "image": "src/assets/tarile/grecia/atena.png",
+        "tip": "Tur de vară - Atena",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":" 6 Nopți (20.07.2025 - 26.07.2025",
+        "rezervare":"Rezervare timpurie a Greciei în 2025",
+        "mesaj":"Atena, leagănul civilizației antice, oferă o combinație unică de monumente istorice și viață urbană vibrantă.",
+        "pret":"310€"
+    },
+    {
+        "id": 12,
+        "image": "src/assets/tarile/grecia/milos.png",
+        "tip": "Tur de  vară - Milos",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"7 Nopți (24.07.2025 - 31.07.2025)",
+        "rezervare":"Rezervare timpurie a Greciei în 2025",
+        "mesaj":"Milos este renumită pentru plajele sale izolate și peisajele vulcanice spectaculoase.",
+        "pret":"293€"
+    }
+]

@@ -1,0 +1,65 @@
+
+.principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    flex-direction: row;
+    background-image: url('../../assets/rezervare.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    position: relative; 
+    flex-wrap: wrap;
+    top: 0;
+    left: 0;
+    right: 0;
+    max-height: 1800px;
+  }
+  
+  .principal h2 {
+    font-size: 79px;
+    font-family:'Times New Roman', Times, serif;
+    color:aliceblue;
+
+  }
+  
+  .secund {
+    margin-left:80px;
+    max-width: 500px;
+  }
+  .formular {
+    max-width: 450px; 
+    width: 100%;
+    margin-right:80px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-left:15px;
+    margin-top: 10px;
+    padding-right:15px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+ 
+  @media (max-width: 868px) {
+    .principal {
+        height: auto;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
+        padding: 30px 20px;
+    }
+    .secund h2 {
+      font-size: 20px;
+      color: black;
+  }
+
+
+    .formular {
+        max-width: 80%;
+        margin-right: 0;
+    }
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/motiveIcon/im1.png",
+        "titlu":"Experiență vastă"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/motiveIcon/im2.png",
+        "titlu":"Asistență 24/7"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/motiveIcon/im3.png",
+        "titlu":"Prețuri transparente"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/motiveIcon/im4.png",
+        "titlu":"Destinații diverse"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/motiveIcon/im5.png",
+        "titlu":"Siguranță și confort"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/motiveIcon/im6.png",
+        "titlu":"Consultanță"
+    }
+   
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/tarile/turcia/instanbul.png",
+        "tip": "Tur de vară - Istanbul",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (01.06.2025 - 07.06.2025)",
+        "rezervare":"Rezervarea timpurie a Turciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Istanbul te invită să descoperi orașul dintre două continente, plin de istorie și arhitectură impresionantă.",
+        "pret":"255€"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/tarile/turcia/antalya.png",
+        "tip": " Tur de vară - Antalya",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"  7 Nopți (05.06.2025 - 12.06.2025)",
+        "rezervare":"Rezervarea timpurie a Turciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Antalya oferă plaje aurii, stațiuni de lux și peisaje spectaculoase pe Riviera Turcească.",
+         "pret":"275€"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/tarile/turcia/cappadocia.png",
+        "tip": "Tur de vară -Cappadocia",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"5 Nopți (10.06.2025 - 15.06.2025)",
+        "rezervare":"Rezervarea timpurie a Turciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Cappadocia este celebră pentru peisajele sale unice, orașele subterane și zborurile cu balonul.",
+        "pret":"295€"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/tarile/turcia/bodrum.png",
+        "tip": "Tur de vară - Bodrum",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":"8 Nopți (15.06.2025 - 23.06.2025)",
+        "rezervare":"Rezervarea timpurie a Turciei în 2025  ",
+        "mesaj":"Bodrum te așteaptă cu plaje superbe, viață de noapte vibrantă și istorie antică.",
+        "pret":"270€"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/tarile/turcia/izmir.png",
+        "tip": "Tur de vară - Izmir",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":": 6 Nopți (20.06.2025 - 26.06.2025)",
+        "rezervare":"Rezervarea timpurie a Turciei în 2025  ",
+        "mesaj":"Izmir îmbină modernitatea cu vestigiile antice, oferind o atmosferă plină de farmec.",
+        "pret":"295€"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/tarile/turcia/marmaris.png",
+        "tip": "Tur de vară - Marmaris",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 5 Nopți (25.06.2025 - 30.06.2025)",
+        "rezervare":"Rezervarea timpurie a Turciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Marmaris oferă plaje frumoase, ape limpezi și o viață de noapte animată.",
+        "pret":"350€"
+    },
+    {
+        "id": 7,
+        "image": "src/assets/tarile/turcia/kusadasi.png",
+        "tip": "Tur de vară -  Kusadasi",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":" 6 Nopți (05.07.2025 - 11.07.2025)",
+        "rezervare":"Rezervare timpurie a Turciei în 2025",
+        "mesaj":"Kusadasi este perfect pentru plaje, excursii la Efes și relaxare la Marea Egee.",
+        "pret":"260€"
+    },
+    {
+        "id": 8,
+        "image": "src/assets/tarile/turcia/alanya.png",
+        "tip": "Tur de vară - Alanya",
+        "inclus": " Zbor ✈️ , 🏨 Cazare",
+        "data":" 6 Nopți (20.07.2025 - 26.07.2025)",
+        "rezervare":"Rezervare timpurie a Turciei în 2025",
+        "mesaj":"Alanya impresionează cu plaje superbe și fortăreața medievală de pe litoral.",
+        "pret":"271€"
+    },
+    {
+        "id": 9,
+        "image": "src/assets/tarile/turcia/fethiye.png",
+        "tip": "Tur de vară - Fethiye",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"7 Nopți (10.07.2025 - 17.07.2025)",
+        "rezervare":"Rezervare timpurie a Turciei în 2025",
+        "mesaj":"Fethiye te cucerește cu lagunele sale turcoaz și peisajele montane spectaculoase.",
+        "pret":"280€"
+    }
+]

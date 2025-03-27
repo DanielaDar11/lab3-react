@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/tarile/spania/barcelona.png",
+        "tip": "Tur de vară - Barcelona",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 5 Nopți (01.06.2025 - 06.06.2025)",
+        "rezervare":"Rezervarea timpurie a Spaniei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Barcelona este o destinație vibrantă, cu arhitectură impresionantă și plaje superbe.",
+        "pret":"255€"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/tarile/spania/madrid.png",
+        "tip": "Tur de vară - Madrid",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 7 Nopți (05.06.2025 - 12.06.2025)",
+        "rezervare":"Rezervarea timpurie a Spaniei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Madrid este capitala Spaniei, plină de istorie, artă și viață de noapte.",
+         "pret":"275€"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/tarile/spania/costa.png",
+        "tip": "Tur de vară -Costa Brava",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"  6 Nopți (10.06.2025 - 16.06.2025)",
+        "rezervare":"Rezervarea timpurie a Greciei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Costa Brava oferă plaje spectaculoase și peisaje montane impresionante.",
+        "pret":"285€"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/tarile/spania/valencia.png",
+        "tip": "Tur de vară -Valencia",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (15.06.2025 - 21.06.2025)",
+        "rezervare":"Rezervarea timpurie a Spaniei în 2025 ",
+        "mesaj":"Valencia este renumită pentru plajele sale, grădinile și arhitectura modernă.",
+        "pret":"275€"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/tarile/spania/sevilla.png",
+        "tip": "Tur de vară - Sevilla",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":"  6 Nopți (20.06.2025 - 26.06.2025)",
+        "rezervare":"Rezervarea timpurie a Spaniei în 2025 ",
+        "mesaj":"Sevilla este un oraș cu tradiții vechi și o atmosferă vibrantă, celebru pentru flamenco și arhitectura sa istorică.",
+        "pret":"295€"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/tarile/spania/mallorca.png",
+        "tip": "Tur de vară -Mallorca",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 6 Nopți (05.07.2025 - 11.07.2025)",
+        "rezervare":"Rezervarea timpurie a Spaniei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Mallorca este o insulă cu plaje paradisiace, munți și un aer relaxant.",
+        "pret":"326€"
+    },
+    {
+        "id": 7,
+        "image": "src/assets/tarile/spania/ibiza.png",
+        "tip": "Tur de vară -  Ibiza",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":"5 Nopți (01.07.2025 - 06.07.2025)",
+        "rezervare":"Rezervare timpurie a Spaniei în 2025",
+        "mesaj":"Ibiza este renumită pentru viața de noapte, plajele sale și atmosfera boemă.",
+        "pret":"258€"
+    },
+    {
+        "id": 8,
+        "image": "src/assets/tarile/spania/gran.png",
+        "tip": "Tur de vară - Gran Canaria",
+        "inclus": " Zbor ✈️ , 🏨 Cazare",
+        "data":" 6 Nopți (05.07.2025 - 11.07.2025)",
+        "rezervare":"Rezervare timpurie a Spaniei în 2025",
+        "mesaj":"Gran Canaria oferă un mix unic de plaje aurii, munți și păduri verzi.",
+        "pret":"273€"
+    },
+    {
+        "id": 9,
+        "image": "src/assets/tarile/spania/costaB.png",
+        "tip": "Tur de vară - Costa del Sol",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 7 Nopți (10.07.2025 - 17.07.2025)",
+        "rezervare":"Rezervare timpurie a Spaniei în 2025",
+        "mesaj":"Costa del Sol este celebră pentru clima sa blândă, plajele și orașele animat.",
+        "pret":"295€"
+    },
+    {
+        "id": 10,
+        "image": "src/assets/tarile/spania/santiagoC.png",
+        "tip": "Tur de vară - Santiago de Compostela",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 5 Nopți (15.06.2025 - 20.06.2025)",
+        "rezervare":"Rezervare timpurie a Spaniei în 2025",
+        "mesaj":"Santiago de Compostela este un oraș cu o mare încărcătură religioasă și culturală.",
+        "pret":"270€"
+    },
+    {
+        "id": 11,
+        "image": "src/assets/tarile/spania/Toledo.png",
+        "tip": " Tur de vară - Toledo",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":"6 Nopți (20.07.2025 - 26.07.2025)",
+        "rezervare":"Rezervare timpurie a Spaniei în 2025",
+        "mesaj":"Toledo este un oraș istoric, renumit pentru patrimoniul său medieval și arhitectura impresionantă.",
+        "pret":"315€"
+    },
+    {
+        "id": 12,
+        "image": "src/assets/tarile/spania/alicante.png",
+        "tip": "Tur de  vară - Alicante",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 7 Nopți (25.07.2025 - 01.08.2025)",
+        "rezervare":"Rezervare timpurie a  Spaniei în 2025",
+        "mesaj":"Alicante este un oraș de pe coasta de est, cu plaje frumoase și un centru istoric captivant.",
+        "pret":"293€"
+    }
+]

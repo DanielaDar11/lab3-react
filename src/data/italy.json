@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/tarile/italia/venetia.png",
+        "tip": "Tur de vară -Veneția",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (10.06.2025 - 16.06.2025)",
+        "rezervare":"Rezervarea timpurie a Italiei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Rezervările timpurii garantează prețuri avantajoase și acces la o selecție variată de hoteluri și destinații de vis.",
+        "pret":"265€"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/tarile/italia/Monterosso.png",
+        "tip": "Tur de vară - Monterosso",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 6 Nopți (10.07.2025 - 16.07.2025)",
+        "rezervare":"Rezervarea timpurie a Italiei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Rezervările timpurii îți asigură tarife reduse și o gamă extinsă de opțiuni de cazare în cele mai frumoase destinații din Italia.",
+         "pret":"260€"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/tarile/italia/roma.png",
+        "tip": "Tur de vară -Roma",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 6 Nopți (05.07.2025 - 11.07.2025)",
+        "rezervare":"Rezervarea timpurie a Italiei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Rezervările timpurii garantează prețuri avantajoase și acces la o selecție variată de hoteluri și destinații de vis.",
+        "pret":"272€"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/tarile/italia/amalfi.png",
+        "tip": "Tur de vară -Coasta Amalfi",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (15.08.2025 - 21.08.2025)",
+        "rezervare":"Rezervarea timpurie a Italiei în 2025",
+        "mesaj":"Coasta Amalfi oferă peisaje spectaculoase și sate pitorești, fiind o destinație de vis în sudul Italiei.",
+        "pret":"255€"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/tarile/italia/napoli.png",
+        "tip": "Tur de vară - Napoli",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":" 6 Nopți (12.07.2025 - 18.07.2025)",
+        "rezervare":"Rezervarea timpurie a Italiei în 2025 ",
+        "mesaj":"Napoli este un oraș plin de istorie, gastronomie și peisaje spectaculoase.",
+        "pret":"280€"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/tarile/italia/sicilia.png",
+        "tip": "Tur de vară -Sicilia",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (05.07.2025 - 11.07.2025",
+        "rezervare":"Rezervarea timpurie a Italiei în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Sicilia este o destinație de vis, cunoscută pentru plajele sale idilice, ruinele antice și cultura vibrantă.",
+        "pret":"270€"
+    },
+    {
+        "id": 7,
+        "image": "src/assets/tarile/italia/cortina.png",
+        "tip": "Tur de iarnă -Cortina d'Ampezzo",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":"6 Nopți (01.12.2025 - 07.12.2025)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Coasta Amalfi oferă peisaje spectaculoase și sate pitorești, fiind o destinație de vis în sudul Italiei.",
+        "pret":"252€"
+    },
+    {
+        "id": 8,
+        "image": "src/assets/tarile/italia/Val.png",
+        "tip": "Tur de iarnă - Val Gardena",
+        "inclus": " Zbor ✈️ , 🏨 Cazare",
+        "data":"7 Nopți (05.12.2025 - 12.12.2025)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Peisaje uimitoare și pârtii perfecte pentru schiori.",
+        "pret":"290€"
+    },
+    {
+        "id": 9,
+        "image": "src/assets/tarile/italia/Bormio.png",
+        "tip": "Tur de iarnă - Bormio",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 6 Nopți (10.12.2025 - 16.12.2025)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Oferă băi termale și pârtii montane spectaculoase.",
+        "pret":"299€"
+    },
+    {
+        "id": 10,
+        "image": "src/assets/tarile/italia/madonna.png",
+        "tip": "Tur de iarnă -Madonna di Campiglio",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 5 Nopți (15.12.2025 - 20.12.2025)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Ideală pentru iubitorii de schi și vacanțe de lux.",
+        "pret":"250€"
+    },
+    {
+        "id": 11,
+        "image": "src/assets/tarile/italia/sestriere.png",
+        "tip": "Tur de iarnă - Sestriere",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":"6 Nopți (10.06.2025 - 16.06.2025)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Pârtii diverse, perfecte pentru toți pasionații de schi, într-un peisaj montan spectaculos.",
+        "pret":"295€"
+    },
+    {
+        "id": 12,
+        "image": "src/assets/tarile/italia/livigno.png",
+        "tip": "Tur de iarnă - Livigno",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 7 Nopți (01.01.2026 - 08.01.2026)",
+        "rezervare":"Rezervări de iarnă la cele mai bune destinații",
+        "mesaj":"Atmosferă vibrantă, pârtii excelente și peisaje montane deosebite, ideale pentru o vacanță de iarnă de neuitat.",
+        "pret":"290€"
+    }
+]

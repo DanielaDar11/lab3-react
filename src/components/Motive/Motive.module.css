@@ -1,0 +1,35 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-image: url('../../assets/motive.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    max-height: 1000px;
+    color: white;
+  }
+  
+  .principal h1 {
+    font-size: 45px;
+    margin-top: 20px;
+  }
+  .secundar {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 30px;
+    max-width: 1300px;
+    margin:auto;
+  }
+
+  @media (max-width: 768px) {
+    .principal h1 {
+        font-size:30px;
+    }
+  }

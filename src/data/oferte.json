@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "Egipt",
+        "data":"🗓️  Din 11.12.2024",
+        "nopti":"🌃 7 Nopți",
+        "plecare":"🛫 Plecare din Chișinău",
+        "mancare":"🍽️ All inclusive",
+        "transport":"✈️ Avion",
+        "Persoane":"💰 Prețul pentru 1 persoană",
+        "image": "src/assets/oferte/egipt.png",
+        "pret":"278€"
+    },
+    {
+        "id": 2,
+        "name": "Bali",
+        "data":"🗓️ Din 15.12.2024",
+        "nopti":"🌃 10 Nopți",
+        "plecare":"🛫 Plecare din Chișinău",
+        "mancare":"🍽️ All inclusive",
+        "transport":"✈️ Avion",
+        "Persoane":"💰 Prețul pentru 1 persoană",
+        "image": "src/assets/oferte/bali.png",
+        "pret":"900€"
+    },
+    {
+        "id": 3,
+        "name": "Seychelles",
+        "data":"🗓️ Din 19.01.2025",
+        "nopti":"🌃 7 Nopți",
+        "plecare":"🛫 Plecare din Chișinău",
+        "mancare":"🍽️ Mic dejun inclusiv",
+        "transport":"✈️ Avion",
+        "Persoane":"💰 Prețul pentru 1 persoană",
+        "image": "src/assets/oferte/seychelles.png",
+        "pret":"879€"
+    },
+    {
+        "id": 4,
+        "name": "Phuket",
+        "data":"🗓️ Din 18.12.2024",
+        "nopti":"🌃 8 Nopți",
+        "plecare":"🛫 Plecare din Chișinău",
+        "mancare":"🍽️ All inclusive",
+        "transport":"✈️ Avion",
+        "Persoane":"💰 Prețul pentru 2 persoane",
+        "image": "src/assets/oferte/phuket.png",
+        "pret":"850€"
+    },
+    {
+        "id": 5,
+        "name": "Antalya",
+        "data":"🗓️ Din 01.02.2025",
+        "nopti":"🌃 7 Nopți",
+        "plecare":"🛫 Plecare din Chișinău",
+        "mancare":"🍽️ Mic dejun inclusiv",
+        "transport":"✈️ Avion",
+        "Persoane":"💰 Prețul pentru 2 persoane",
+        "image": "src/assets/oferte/antalya.png",
+        "pret":"678€"
+    },
+    {
+        "id": 6,
+        "name": "Creta",
+        "data":"🗓️ Din 27.12.2024",
+        "nopti":"🌃 9 Nopți",
+        "plecare":"🛫 Plecare din Chișinău",
+        "mancare":"🍽️ All inclusive",
+        "transport":"✈️ Avion",
+        "Persoane":"💰 Prețul pentru 1 persoană",
+        "image": "src/assets/oferte/creta.png",
+        "pret":"689€"
+    },
+    {
+        "id": 7,
+        "name": "Brașov",
+        "data":"🗓️ Din 19.12.2025",
+        "nopti":"🌃 7 Nopți",
+        "plecare":"🚌 Plecare din Chișinău",
+        "mancare":"🍽️ All inclusive",
+        "transport":"🚌 Autocar",
+        "Persoane":"💰 Prețul pentru 1 persoană",
+        "image": "src/assets/oferte/brasov.png",
+        "pret":"300€"
+    },
+    {
+        "id": 8,
+        "name": "Sinaia",
+        "data":"🗓️ Din 03.01.2025",
+        "nopti":"🌃 5 Nopți",
+        "plecare":"🚌 Plecare din Chișinău",
+        "mancare":"🍽️ All inclusive",
+        "transport":"🚌 Autocar",
+        "Persoane":"💰 Prețul pentru 2 persoane",
+        "image": "src/assets/oferte/sinaia.png",
+        "pret":"255€"
+    }
+    
+]

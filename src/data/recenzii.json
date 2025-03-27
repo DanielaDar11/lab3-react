@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Ana Popescu",
+        "oras":"Chișinău",
+        "image": "src/assets/Despre/Recenzii/im1.png",
+        "mesaj":"Am rezervat o vacanță în Antalya prin Via Travel. Totul a fost organizat impecabil: bilete, transfer și cazare. Nu am avut nicio grijă și am avut parte de o vacanță minunată!",
+        "stele":"⭐⭐⭐"
+    },
+    {
+        "id": 2,
+        "name": "Mihai Rusu",
+        "oras":"Ungheni",
+        "image": "src/assets/Despre/Recenzii/im2.png",
+        "mesaj":"Am călătorit cu familia în Spania cu ajutorul Via Travel. Am primit o ofertă excelentă și asistență constantă pe tot parcursul vacanței. Recomand pentru profesionalism!",
+        "stele":"⭐⭐"
+    },
+    {
+        "id": 3,
+        "name": "Elena Dumitru",
+        "oras":"Bălți",
+        "image": "src/assets/Despre/Recenzii/im3.png",
+        "mesaj":"Via Travel mi-a organizat excursia la Paris exact cum mi-am dorit. Zborurile au fost punctuale, hotelul foarte bine situat și am avut parte de tururi ghidate interesante.",
+        "stele":"⭐⭐⭐"
+    }
+    
+    
+]

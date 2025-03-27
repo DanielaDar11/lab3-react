@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "src/assets/tarile/egipt/cairo.png",
+        "tip": "Tur de vară - Cairo",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"6 Nopți (01.06.2025 - 07.06.2025)",
+        "rezervare":"Rezervarea timpurie a Egiptului în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Cairo te invită să descoperi istoria antică, piramidele legendare și cultura vibrantă a Egiptului.",
+        "pret":"255€"
+    },
+    {
+        "id": 2,
+        "image": "src/assets/tarile/egipt/hurghada.png",
+        "tip": " Tur de vară - Hurghada",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"  7 Nopți (05.06.2025 - 12.06.2025)",
+        "rezervare":"Rezervarea timpurie a Egiptului în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Hurghada oferă plaje aurii, recife de corali și stațiuni de lux pe malul Mării Roșii.",
+         "pret":"275€"
+    },
+    {
+        "id": 3,
+        "image": "src/assets/tarile/egipt/luxor.png",
+        "tip": "Tur de vară -Luxor",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":" 5 Nopți (10.06.2025 - 15.06.2025)",
+        "rezervare":"Rezervarea timpurie a Egiptului în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Luxor este un muzeu în aer liber, cu temple antice, morminte și vestigii fascinante.",
+        "pret":"295€"
+    },
+    {
+        "id": 4,
+        "image": "src/assets/tarile/egipt/sharm.png",
+        "tip": "Tur de vară - Sharm El Sheikh",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":"8 Nopți (15.06.2025 - 23.06.2025)",
+        "rezervare":"Rezervarea timpurie a Egiptului în 2025 ",
+        "mesaj":"Sharm El Sheikh este o stațiune celebră pentru plajele sale exotice și scufundările spectaculoase.",
+        "pret":"270€"
+    },
+    {
+        "id": 5,
+        "image": "src/assets/tarile/egipt/alexandria.png",
+        "tip": "Tur de vară - Alexandria",
+        "inclus": "Zbor ✈️ Mic dejun  🏨 Cazare",
+        "data":" 6 Nopți (20.06.2025 - 26.06.2025)",
+        "rezervare":"Rezervarea timpurie a Egiptului în 2025 ",
+        "mesaj":"Alexandria combină istoria fascinantă, biblioteci celebre și peisaje de coastă superbe.",
+        "pret":"295€"
+    },
+    {
+        "id": 6,
+        "image": "src/assets/tarile/egipt/aswan.png",
+        "tip": "Tur de vară -Aswan",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"5 Nopți (25.06.2025 - 30.06.2025)",
+        "rezervare":"Rezervarea timpurie a Egiptului în 2025 cu pachetul „All inclusive”",
+        "mesaj":"Aswan oferă peisaje de neegalat pe malul Nilului și temple antice impresionante.",
+        "pret":"350€"
+    },
+    {
+        "id": 7,
+        "image": "src/assets/tarile/egipt/giza.png",
+        "tip": "Tur de vară -  Giza",
+        "inclus": "Zbor ✈️ ,  🏨 Cazare",
+        "data":"6 Nopți (05.07.2025 - 11.07.2025)",
+        "rezervare":"Rezervare timpurie a Egiptului în 2025",
+        "mesaj":"Giza este faimoasă pentru marile piramide și Sfinxul, simboluri ale Egiptului Antic.",
+        "pret":"250€"
+    },
+    {
+        "id": 8,
+        "image": "src/assets/tarile/egipt/taba.png",
+        "tip": "Tur de vară - Taba",
+        "inclus": " Zbor ✈️ , 🏨 Cazare",
+        "data":"6 Nopți (20.07.2025 - 26.07.2025)",
+        "rezervare":"Rezervare timpurie a Egiptului în 2025",
+        "mesaj":"Taba impresionează prin peisajele spectaculoase și proximitatea față de granița cu Israelul.",
+        "pret":"275€"
+    },
+    {
+        "id": 9,
+        "image": "src/assets/tarile/egipt/port.png",
+        "tip": "Tur de vară - Port Said",
+        "inclus": "Zbor ✈️ ALL INCLUSIVE 🏨 Cazare",
+        "data":"7 Nopți (10.07.2025 - 17.07.2025)",
+        "rezervare":"Rezervare timpurie a Egiptului în 2025",
+        "mesaj":"Port Said oferă o combinație de peisaje maritime, istorie și o atmosferă portuară vibrantă.",
+        "pret":"290€"
+    }
+]

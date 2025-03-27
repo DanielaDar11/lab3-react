@@ -1,0 +1,21 @@
+.principal {
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.primul, .aldoilea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.primul img, .aldoilea img {
+    max-width: 100%;
+    height: auto;
+}

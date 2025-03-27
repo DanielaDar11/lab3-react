@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "🏝️ Mare",
+        "image": "src/assets/destinatii/mare.png"
+    },
+    {
+        "id": 2,
+        "name": "🗻 Munte",
+        "image": "src/assets/destinatii/munte.png"
+    },
+    {
+        "id": 3,
+        "name": "🧳 Excursii",
+        "image": "src/assets/destinatii/excursii.png"
+    },
+    {
+        "id": 4,
+        "name": "🏙️ Orașe",
+        "image": "src/assets/destinatii/orase.png"
+    },
+    {
+        "id": 5,
+        "name": "🧘‍♀️ Relaxare",
+        "image": "src/assets/destinatii/relaxare.png"
+    },
+    {
+        "id": 6,
+        "name": "🗺️ Aventură",
+        "image": "src/assets/destinatii/aventura.png"
+    }
+]

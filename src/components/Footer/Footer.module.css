@@ -1,0 +1,102 @@
+.footer {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(196, 246, 246);
+    justify-content: space-between; 
+    width:100%;
+    box-sizing: border-box;
+  }
+  
+  .topSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .contact {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    gap: 50px;
+    margin-left: 60px;
+  }
+  
+  .contact a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 26px;
+  }
+  .contact img {
+    width: 60px; 
+    height: auto; 
+    margin-bottom: 15px; 
+  }
+  
+  
+  .socials {
+    display: flex;
+    gap: 40px;
+    margin-left:60px;
+    margin-right:60px;
+  }
+  
+  .links {
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 60px;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: #000000;
+    margin: 0 18px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+ 
+  .copyright {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #000000;
+    margin-top: 30px;
+    margin-left:60px;
+    text-align: left;
+  }
+
+
+  .carduri {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-right: 60px;
+    margin-left: 60px;
+  }
+  .carduri img {
+    width: 60px; 
+    height: auto; 
+    border:1px solid black;
+    border-radius: 10px;
+  }
+
+  @media (max-width: 760px) {
+    .contact a {
+      font-size: 18px;
+    }
+  
+    .links a {
+      font-size: 16px;
+    }
+  
+    .carduri img {
+      width: 60px;
+    }
+    .icon {
+      width:30px;
+    }
+    .copyright {
+      font-size:16px;
+    }
+  }

@@ -1,0 +1,27 @@
+.sectiune {
+    margin-bottom: 40px;
+  }
+  
+ .sectiune h2 {
+    color: rgb(5, 5, 117); 
+    font-size: 28px;
+    text-align: left;
+    margin-left:20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+ .sectiune p {
+    font-size: 17px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  @media (max-width: 800px) {
+    .sectiune h2 {
+      font-size: 20px;
+      margin-left: 10px;
+    }
+  
+    .sectiune p {
+      font-size: 14px;
+    }
+  }

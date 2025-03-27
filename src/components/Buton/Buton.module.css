@@ -1,0 +1,20 @@
+.buton {
+    background-color: #06284d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.buton:hover {
+    background-color: #0056b3;
+}
+
+@media (max-width: 900px) {
+    .buton {
+        font-size: 10px;
+    }
+}

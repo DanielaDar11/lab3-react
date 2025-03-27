@@ -1,0 +1,46 @@
+.formular {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.formular div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.formular input,
+.formular select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+
+.formular label {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:30px;
+    font-size:25px;
+    text-align: center;
+}
+@media (max-width: 800px) {
+    .formular {
+        width: 100%;
+        padding: 10px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+}

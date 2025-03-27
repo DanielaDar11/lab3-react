@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Ion Popescu",
+        "image": "src/assets/Echipa/im1.png",
+        "ocupatia":"Manager General, Fondator",
+        "mesaj":"Călătoriți cu încredere, noi avem grijă de restul."
+       
+    },
+    {
+        "id": 2,
+        "name": "Elena Popescu",
+        "image": "src/assets/Echipa/im2.png",
+         "ocupatia":"Specialist Turism, Co-fondator",
+        "mesaj":"Călătoriile sunt modalitatea perfectă de a învăța, a crește și a crea amintiri de neuitat."
+        
+    },
+    {
+        "id": 3,
+        "name": "Andrei Ionescu",
+        "image": "src/assets/Echipa/im3.png",
+         "ocupatia":"Consultant Turism, Manager Proiecte",
+        "mesaj":"Fiecare destinație are o poveste, iar noi suntem aici să o împărtășim cu voi."
+        
+    }
+    
+    
+]
